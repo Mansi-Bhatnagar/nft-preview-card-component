@@ -126,5 +126,8 @@ body {
     .se{
         pointer-events: none;
     }
+    .card{
+        box-shadow:none;
+    }
 
 }
